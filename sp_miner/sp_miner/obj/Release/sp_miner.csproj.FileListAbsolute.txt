@@ -1,0 +1,6 @@
+C:\Users\nphda\Downloads\sp_miner\sp_miner\bin\Release\sp_miner.exe.config
+C:\Users\nphda\Downloads\sp_miner\sp_miner\bin\Release\sp_miner.exe
+C:\Users\nphda\Downloads\sp_miner\sp_miner\bin\Release\sp_miner.pdb
+C:\Users\nphda\Downloads\sp_miner\sp_miner\obj\Release\sp_miner.csproj.CoreCompileInputs.cache
+C:\Users\nphda\Downloads\sp_miner\sp_miner\obj\Release\sp_miner.exe
+C:\Users\nphda\Downloads\sp_miner\sp_miner\obj\Release\sp_miner.pdb

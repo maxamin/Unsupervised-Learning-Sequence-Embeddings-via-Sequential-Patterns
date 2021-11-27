@@ -1,0 +1,13 @@
+C:\Users\nphda\Downloads\sp_miner\sp_miner\obj\Debug\sp_miner.csproj.CoreCompileInputs.cache
+C:\Users\nphda\Downloads\sp_miner\sp_miner\bin\Debug\sp_miner.exe.config
+C:\Users\nphda\Downloads\sp_miner\sp_miner\bin\Debug\sp_miner.exe
+C:\Users\nphda\Downloads\sp_miner\sp_miner\bin\Debug\sp_miner.pdb
+C:\Users\nphda\Downloads\sp_miner\sp_miner\obj\Debug\sp_miner.exe
+C:\Users\nphda\Downloads\sp_miner\sp_miner\obj\Debug\sp_miner.pdb
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\bin\Debug\sp_miner.exe.config
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\bin\Debug\sp_miner.exe
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\bin\Debug\sp_miner.pdb
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\obj\Debug\sp_miner.csprojAssemblyReference.cache
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\obj\Debug\sp_miner.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\obj\Debug\sp_miner.exe
+C:\Users\admin\Documents\NetBeansProjects\PythonInterpreterTemplate\sp_miner\sp_miner\obj\Debug\sp_miner.pdb
