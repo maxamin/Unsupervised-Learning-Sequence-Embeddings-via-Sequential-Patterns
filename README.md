@@ -1,3 +1,5 @@
+#Keep in mind
+spminer.exe is complied on X64 to evade 4GB memory limitation
 # Documentation
 
 initial contribution , The documentation still in progress
